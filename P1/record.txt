@@ -1,0 +1,12 @@
+RECORDS OF GAMES
+
+Name =  Navi
+Your wins = 2
+Computer wins = 1
+Match draws = 2
+
+Name =  Navi
+Your wins = 4
+Computer wins = 3
+Match draws = 2
+
